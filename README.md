@@ -3,4 +3,4 @@
 ## 2
 ## 3
 
-# add web hook to cooperate with redmine.
+# add web hook to cooperate with redmine.(fixed project name)
