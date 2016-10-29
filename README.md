@@ -8,6 +8,7 @@
 # for check
 # for check 2
 # for check 3
-# commit by git-redmine
-# commit by git-issuce
+# git@github.com
+# git@github.com 2
+
 
